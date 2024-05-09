@@ -8,6 +8,7 @@
     <title>Cookies</title>
 </head>
 <body>
+    <h1>This is a bad Heading!!</h1>
     <h1>A: First h1</h1>
     <h1>B: Second h1</h1>
     <h2>A: Second h2</h2>
