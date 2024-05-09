@@ -13,6 +13,5 @@
     <h2>A: Second h2</h2>
     <h3>B: First h3</h3>
     <h4>A: Test h4</h4>
-    <p>To be removed</p>
 </body>
 </html>
