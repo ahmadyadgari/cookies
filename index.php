@@ -8,6 +8,7 @@
     <title>cookies</title>
     <title>Cookies</title>
     <title>Merge Conflict</title>
+    <title>Merge Conflict2</title>
 </head>
 <body>
     <h1>A: First h1</h1>
