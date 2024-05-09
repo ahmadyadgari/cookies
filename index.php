@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>A: First h1</h1>
+    <h1>B: Second h1</h1>
 </body>
 </html>
