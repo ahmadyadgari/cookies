@@ -11,5 +11,6 @@
     <h1>A: First h1</h1>
     <h1>B: Second h1</h1>
     <h2>A: Second h2</h2>
+    <h3>B: First h3</h3>
 </body>
 </html>
